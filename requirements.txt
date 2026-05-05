@@ -1,0 +1,12 @@
+openai
+langchain
+langchain-openai
+langgraph
+pandas
+openpyxl
+docxtpl
+chromadb
+Pillow
+streamlit
+langchain-openai langchain-chroma
+PyMuPDF python-docx langchain-text-splitters
